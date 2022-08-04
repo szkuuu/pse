@@ -169,3 +169,11 @@
 #include <stdatomic.h>
 #endif
 ```
+
+## 제한시간 내에 풀지 못 하거나 풀이방법을 몰랐음
+### 제한시간 초과
+- [BOJ 9375 : 패션왕 신해빈](https://www.acmicpc.net/problem/9375) ([solve](src/boj/9375.cpp))
+
+### 풀이방법 부지
+- [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
+- [BOJ 11051 : 이항계수 2](https://www.acmicpc.net/problem/11051) ([solve](src/boj/11051.cpp))
