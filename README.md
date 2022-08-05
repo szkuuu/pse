@@ -178,3 +178,4 @@
 ### 풀이방법 부지
 - [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
 - [BOJ 11051 : 이항계수 2](https://www.acmicpc.net/problem/11051) ([solve](src/boj/11051.cpp))
+- [BOJ 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649) ([solve](src/boj/15649.cpp))
