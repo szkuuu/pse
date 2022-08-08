@@ -176,6 +176,7 @@
 - [BOJ 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) ([solve](src/boj/2004.cpp))
 - [BOJ 9663 : N-Queen](https://www.acmicpc.net/problem/9663) ([solve](src/boj/9663.cpp))
 - [BOJ 2580 : 스도쿠](https://www.acmicpc.net/problem/2580) ([solve](src/boj/2580.cpp))
+- [BOJ 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ([solve](src/boj/14888.cpp))
 
 ### 풀이방법 부지
 - [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
