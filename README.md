@@ -174,6 +174,8 @@
 ### 제한시간 초과
 - [BOJ 9375 : 패션왕 신해빈](https://www.acmicpc.net/problem/9375) ([solve](src/boj/9375.cpp))
 - [BOJ 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) ([solve](src/boj/2004.cpp))
+- [BOJ 9663 : N-Queen](https://www.acmicpc.net/problem/9663) ([solve](src/boj/9663.cpp))
+- [BOJ 2580 : 스도쿠](https://www.acmicpc.net/problem/2580) ([solve](src/boj/2580.cpp))
 
 ### 풀이방법 부지
 - [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
