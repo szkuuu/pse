@@ -183,3 +183,4 @@
 - [BOJ 11051 : 이항계수 2](https://www.acmicpc.net/problem/11051) ([solve](src/boj/11051.cpp))
 - [BOJ 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649) ([solve](src/boj/15649.cpp))
 - [BOJ 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) ([solve](src/boj/14889.cpp))
+- [BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912) ([solve](src/boj/1912.cpp))
