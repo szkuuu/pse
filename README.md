@@ -185,3 +185,5 @@
 - [BOJ 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649) ([solve](src/boj/15649.cpp))
 - [BOJ 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) ([solve](src/boj/14889.cpp))
 - [BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912) ([solve](src/boj/1912.cpp))
+- [BOJ 2579 : 계단 오르기](https://www.acmicpc.net/problem/2579) ([solve](src/boj/2579.cpp))
+- [BOJ 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) ([solve](src/boj/2156.cpp))
