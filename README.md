@@ -171,19 +171,22 @@
 ```
 
 ## 제한시간 내에 풀지 못 하거나 풀이방법을 몰랐음
-### 제한시간 초과
+### 정수론 및 조합론
 - [BOJ 9375 : 패션왕 신해빈](https://www.acmicpc.net/problem/9375) ([solve](src/boj/9375.cpp))
 - [BOJ 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) ([solve](src/boj/2004.cpp))
+- [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
+- [BOJ 11051 : 이항계수 2](https://www.acmicpc.net/problem/11051) ([solve](src/boj/11051.cpp))
+
+### 백트래킹
+- [BOJ 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649) ([solve](src/boj/15649.cpp))
 - [BOJ 9663 : N-Queen](https://www.acmicpc.net/problem/9663) ([solve](src/boj/9663.cpp))
 - [BOJ 2580 : 스도쿠](https://www.acmicpc.net/problem/2580) ([solve](src/boj/2580.cpp))
 - [BOJ 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ([solve](src/boj/14888.cpp))
-- [BOJ 1149 : RGB 거리](https://www.acmicpc.net/problem/1149) ([solve](src/boj/1149.cpp))
-
-### 풀이방법 부지
-- [BOJ 11050 : 이항계수 1](https://www.acmicpc.net/problem/11050) ([solve](src/boj/11050.cpp))
-- [BOJ 11051 : 이항계수 2](https://www.acmicpc.net/problem/11051) ([solve](src/boj/11051.cpp))
-- [BOJ 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649) ([solve](src/boj/15649.cpp))
 - [BOJ 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) ([solve](src/boj/14889.cpp))
+
+### DP
 - [BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912) ([solve](src/boj/1912.cpp))
+- [BOJ 1149 : RGB 거리](https://www.acmicpc.net/problem/1149) ([solve](src/boj/1149.cpp))
 - [BOJ 2579 : 계단 오르기](https://www.acmicpc.net/problem/2579) ([solve](src/boj/2579.cpp))
+- [BOJ 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844) ([solve](src/boj/10844.cpp))
 - [BOJ 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) ([solve](src/boj/2156.cpp))
