@@ -190,3 +190,6 @@
 - [BOJ 2579 : 계단 오르기](https://www.acmicpc.net/problem/2579) ([solve](src/boj/2579.cpp))
 - [BOJ 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844) ([solve](src/boj/10844.cpp))
 - [BOJ 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156) ([solve](src/boj/2156.cpp))
+- [BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ([solve](src/boj/11053.cpp))
+- [BOJ 2565 : 전깃줄](https://www.acmicpc.net/problem/2565) ([solve](src/boj/2565.cpp))
+- [BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251) ([solve](src/boj/9251.cpp))
