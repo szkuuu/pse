@@ -193,3 +193,4 @@
 - [BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ([solve](src/boj/11053.cpp))
 - [BOJ 2565 : 전깃줄](https://www.acmicpc.net/problem/2565) ([solve](src/boj/2565.cpp))
 - [BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251) ([solve](src/boj/9251.cpp))
+- [BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865) ([solve](src/boj/12865.cpp))
