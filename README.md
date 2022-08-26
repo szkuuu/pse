@@ -194,3 +194,4 @@
 - [BOJ 2565 : 전깃줄](https://www.acmicpc.net/problem/2565) ([solve](src/boj/2565.cpp))
 - [BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251) ([solve](src/boj/9251.cpp))
 - [BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865) ([solve](src/boj/12865.cpp))
+- [BOJ 10986 : 나머지 합](https://www.acmicpc.net/problem/10986) ([solve](src/boj/10986.cpp))
